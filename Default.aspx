@@ -6,7 +6,7 @@
         <h1>Test Web Site</h1>
         <p class="lead">This is my first web site</p>
         <div>
-            <asp:Button ID="ClkBtn" runat="server" OnClick="ClkBtn_Click" Text="Don't Click on it" />            
+            <asp:Button ID="ClkBtn" runat="server" OnClick="ClkBtn_Click" Text="Click on it if u want" />            
         </div>
          <div>
             <asp:Label ID="MsgLbl" runat="server"></asp:Label>
